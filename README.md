@@ -31,3 +31,5 @@ You can also use the tracing tool, which makes the window invisible to the mouse
 ## My friends trying out the app:
 ![Refki](https://github.com/user-attachments/assets/0f35aa98-de38-4715-a2e2-c278a8195f51)
 
+Full vid (30s):
+https://drive.google.com/file/d/1os_JoJslNk12YojAvF_yUxUNDul_zfVq/view?usp=sharing 
