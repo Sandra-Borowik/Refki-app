@@ -1,4 +1,4 @@
-## An app that I made for my own use, when i was a graphic designer.
+## An app that I made for my personal use, when I was a graphic designer.
 
 The inspiration was the PureRef App (https://www.pureref.com/).
 
